@@ -5,19 +5,21 @@ https://react-crypto-dual-theme-app.vercel.app
 
 #GIVE A START ⭐
 
-![Alt text](my-crypto/img/Screenshot%202023-05-01%20012239.png)❤️
+![Alt text](img/Screenshot%202023-05-01%20012239.png)❤️
 
-![Alt text](my-crypto/img/Screenshot%202023-05-01%20012247.png)⭐
+![Alt text](img/Screenshot%202023-05-01%20012247.png)⭐
 
-![Alt text](my-crypto/img/Screenshot%202023-05-01%20012257.png)
+![Alt text](img/Screenshot%202023-05-01%20012257.png)
 
 
 It's a crypto currency app and it is fully responsive
- ![Alt text](my-crypto/img/Screenshot%202023-05-01%20012703.png)
+
+ ![Alt text](img/Screenshot%202023-05-01%20012703.png)
 
 
  With Dual theme
- ![Alt text](my-crypto/img/Screenshot%202023-05-01%20012703.png)
+
+![Alt text](img/Screenshot%202023-05-01%20012310.png)
 
 
 
